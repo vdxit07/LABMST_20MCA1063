@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RegistrationForm</string>
+    <string name="todo">todo</string>
+    <string name="spllash_screeen">spllash_screeen</string>
+    <string name="registration_form">Registration form</string>
+    <string name="enter_uid">Enter UID</string>
+    <string name="enter_course">Enter Course</string>
+    <string name="submit">Submit</string>
+    <string name="uid">Uid</string>
+    <string name="course">Course</string>
+    <string name="enter_name">Enter name</string>
+    <string name="name">Name</string>
+    <string name="record">Record</string>
+
+</resources>
